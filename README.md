@@ -3,3 +3,5 @@ COVID-19 DASHBOARD – TABLEAU PUBLIC                                           
 -	Used MySQL to query, clean, and structure the data for visualization
 -	Created an interactive Tableau dashboard to display trends and insights
 -	Published project to Tableau Public: https://public.tableau.com/app/profile/LK.Insights
+
+![title](Dashboard_1.png)
